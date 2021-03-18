@@ -7,6 +7,6 @@ Lo que soy:
 
 Autodidacta del desarrollo web con conocimientos en html, css, javascript, Python…
 
-Donde encontrarme.
-[twitter](https://twitter.com/)
-[youtube](https://www.youtube.com/)
+ Donde encontrarme:
+- [twitter](https://twitter.com/)
+- [youtube](https://www.youtube.com/)
