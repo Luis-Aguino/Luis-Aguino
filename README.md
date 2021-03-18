@@ -11,8 +11,9 @@
 </p>  
 
  ### Donde encontrarme:
-- [twitter](https://twitter.com/aguijara)
-- [youtube](https://www.youtube.com/)
+- [Likedin](https://www.linkedin.com/in/luis-agui%C3%B1o/)
+- [Twitter](https://twitter.com/aguijara)
+- [Youtube](https://www.youtube.com/)
 
 	
    
